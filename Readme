@@ -1,0 +1,4 @@
+repository itu harus memiliki 3 branch (branch utama, dan dua branch tambahan). 
+Di branch utama, coba upload dotfile yang berfungsi sebagai konfigurasi bash yang kalian telah beri alias tambahan. 
+Di branch tambahan pertama, tolong tuliskan sebuah script bash yang mencetak angka 1-10 di layar. 
+Di branch tambahan kedua, tolong tuliskan sebuah script bash yang mencetak environment variable PATH di layar.
